@@ -1,0 +1,50 @@
+* { box-sizing: border-box; }
+h1 { 
+  width: auto;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif; font-size: 250%; font-weight: bolder; color: mediumpurple;
+  padding-top: 0.5em; padding-bottom: 0.5em; padding-left: 1em; padding-right: 1em; 
+}
+a {
+  float: left;
+  width: 8.91em;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif; font-size: 135%; background-color: mediumpurple;
+  text-align: center;
+  color: white;
+  padding-top: 1em; padding-bottom: 0.8em; padding-right: 1em; padding-left: 1em;
+  border-right: 1px solid white;
+  margin: auto;
+}
+aside { 
+  float: left;
+  font-family: Arial, Helvetica, sans-serif; font-size: 100%; background-color: mediumpurple;
+  text-align: center;
+  margin: auto;
+  width: auto; 
+  padding-left: 5em; padding-right: 3em; padding-top: 2em; padding-bottom: 14em;
+}
+img {
+  margin: 0 5px 0 2px;
+  background-color: lightgray;
+  padding-left: 8em; padding-right: 22.18em; padding-top: 4em; padding-bottom: 3em;
+  float: right;
+  width: auto;
+}
+p { 
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+  width: auto;
+  padding-top: 2em; padding-bottom: 5.72em; padding-left: 28em; padding-right: 20em;
+  text-align: center;
+  float: none;
+}
+footer img {
+  width: auto;
+  margin: 0 5px 0 60px;
+  float: left;
+  background-color: white;
+  padding-left: 1em; padding-right: 1em;
+}
